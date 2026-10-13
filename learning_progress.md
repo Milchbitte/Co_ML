@@ -1,7 +1,10 @@
 ## Learning progress
+- **15.Oct.2026 Thu**
+  - [ ] [Lecture] <ins>Tue 03.03 Generalization</ins>
 - **13.Oct.2026 Tue**
-  - [ ] [Lecture] <ins>Wed 25.02 Optimization II</ins>
-  - [ ] [Tutorial] <ins>Fri 27.02 Linear regression & optimization</ins>.
+  - [ ] [Homewok] <ins>Homework 1</ins>
+  - [x] [Lecture] <ins>Wed 25.02 Optimization II</ins>
+  - [x] [Tutorial] <ins>Fri 27.02 Linear regression & optimization</ins>.
 - **12.Oct.2026 Mon**
   - [x] [Lecture] <ins>Tue 24.02 Nonlinear regression & Optimization I</ins>.
 - **11.Oct.2026 Sun**
