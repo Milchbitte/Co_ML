@@ -1,5 +1,5 @@
 ## Learning progress
-- **11.Oct.2026 Mon**
+- **11.Oct.2026 Sun**
   - [x] Review <ins>Tue 17.02 Introduction</ins> and <ins>Wed 18.02 Linear Regression</ins>.
 - **12.Oct.2026 Mon**
   - [x] <ins>Tue 24.02 Nonlinear regression & Optimization I</ins>.
